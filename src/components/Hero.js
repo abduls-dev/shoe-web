@@ -4,9 +4,8 @@ const HeroSection = () => {
 			<div className="hero-content">
 				<h1>YOUR FEET DESERVE THE BEST</h1>
 				<p>
-					YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-					SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-					SHOES.
+					YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.
+					YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.
 				</p>
 
 				<div className="hero-btn">
@@ -19,11 +18,11 @@ const HeroSection = () => {
 
 					<div className="brand-icons">
 						<img
-							src="/images/amazon.png"
+							src={`${process.env.PUBLIC_URL}/images/amazon.png`}
 							alt="amazon-logo"
 						/>
 						<img
-							src="/images/flipkart.png"
+							src={`${process.env.PUBLIC_URL}/images/flipkart.png`}
 							alt="flipkart-logo"
 						/>
 					</div>
@@ -31,7 +30,7 @@ const HeroSection = () => {
 			</div>
 			<div className="hero-image">
 				<img
-					src="/images/hero-image.png"
+					src={`${process.env.PUBLIC_URL}/images/hero-image.png`}
 					alt="hero-image"
 				/>
 			</div>
