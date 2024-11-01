@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.594d746f.css",
-    "main.js": "/static/js/main.28caf188.js",
-    "index.html": "/index.html",
-    "main.594d746f.css.map": "/static/css/main.594d746f.css.map",
-    "main.28caf188.js.map": "/static/js/main.28caf188.js.map"
+    "main.css": "/shoe-web/static/css/main.594d746f.css",
+    "main.js": "/shoe-web/static/js/main.28caf188.js",
+    "index.html": "/shoe-web/index.html",
+    "main.594d746f.css.map": "/shoe-web/static/css/main.594d746f.css.map",
+    "main.28caf188.js.map": "/shoe-web/static/js/main.28caf188.js.map"
   },
   "entrypoints": [
     "static/css/main.594d746f.css",
